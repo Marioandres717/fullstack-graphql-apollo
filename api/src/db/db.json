@@ -1,0 +1,44 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "Wm8rl1W3AB2njMviRpd-D",
+      "createdAt": 1573464173597,
+      "name": "TA",
+      "type": "DOG"
+    },
+    {
+      "id": "8HKbFKkNXmxCo-eRoo832",
+      "createdAt": 1573464222261,
+      "name": "TA",
+      "type": "DOG"
+    },
+    {
+      "id": "IMxxXcCqGxgA43qKxrqSW",
+      "createdAt": 1573464227104,
+      "name": "yuaya",
+      "type": "DOG"
+    },
+    {
+      "id": "Ah8fSMf0w0uRARuivzoAn",
+      "createdAt": 1573516929720,
+      "name": "Yaya",
+      "type": "DOG"
+    },
+    {
+      "id": "TgNH96IuB-CDPT8FZQK2h",
+      "createdAt": 1573540373851,
+      "name": "ASDDASD",
+      "type": "DOG"
+    },
+    {
+      "id": "_bca15yV36hh6ASmVmj5E",
+      "createdAt": 1573540406151,
+      "name": "BOOOO",
+      "type": "DOG"
+    }
+  ]
+}
